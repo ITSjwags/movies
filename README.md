@@ -8,9 +8,9 @@ Make sure you have the latest versions of [Node](https://nodejs.org/en/), and [Y
 
 ## Technologies
 
-- [Vercel](https:vercel.com)
+- [Vercel](https://vercel.com)
   - Deployed and hosted using Vercel to https://itsjwags-movies.vercel.app/.
-  - _(every commit to `master` will trigger a production deployment)_
+  - _(every commit to `master` will trigger a new build and production deployment)_
 - [NextJS](https://nextjs.org/)
   - React framework
   - Helps with the build system, SSR and static generation, API routes, and more..
